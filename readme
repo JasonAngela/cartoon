@@ -1,0 +1,6 @@
+1、设计上传文件provider 提供client使用
+2、图片手动爬起即可
+3、先设计后台管理 上传图片页面即可
+4、可以尝试Spring cloud config统一配置
+
+OSS 使用阿里云
