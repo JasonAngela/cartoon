@@ -4,3 +4,11 @@
 4、可以尝试Spring cloud config统一配置
 
 OSS 使用阿里云
+
+注册中心:采用eureka
+网关:gateway
+负载:ribbon(暂时单机用不到，但可以尝试搭建一下)
+
+
+
+anyubao-test 是单独的测试工程 与主工程无关
