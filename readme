@@ -9,6 +9,8 @@ OSS 使用阿里云
 网关:gateway
 负载:ribbon(暂时单机用不到，但可以尝试搭建一下)
 
-
-
 anyubao-test 是单独的测试工程 与主工程无关
+
+
+先Spring Cloud原生
+后换成Spring Cloud alibaba试试
